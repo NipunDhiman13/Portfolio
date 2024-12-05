@@ -1,5 +1,5 @@
-This Portfolio was made as a project for my DSA subject in 3rd Semester 
-HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
+This Portfolio was made as a project for my DSA subject in 3rd Semester using
+HTML, CSS, JavaScript and Bootstrap 5
 =======
 # Tools used #
 * HTML, CSS and JavaScript
