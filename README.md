@@ -1,5 +1,4 @@
 This Portfolio was made as a project for my DSA subject in 3rd Semester 
-View the Portfolio : https://htmlpreview.github.io/?https://github.com/NipunDhiman13/Portfolio/blob/main/index.html
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
 # Tools used #
@@ -8,3 +7,4 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.embed-map.com/)
 
+View the Portfolio : https://htmlpreview.github.io/?https://github.com/NipunDhiman13/Portfolio/blob/main/index.html
