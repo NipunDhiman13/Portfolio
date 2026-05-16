@@ -1,6 +1,4 @@
-This Portfolio was made as a project for my DSA subject in 3rd Semester using
-HTML, CSS, JavaScript and Bootstrap 5
-=======
+*Portfolio*
 # Tools used #
 * HTML, CSS and JavaScript
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
